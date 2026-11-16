@@ -1,7 +1,7 @@
 MOC: [[LINUX]] || [[Langages de programmation]]
-Source: 
+Source: [[ChatGPT]]
 Auteur: Francis
-Date: 00-11-2026
+Date: 16-11-2026
 ***
 
 # Répertoire
